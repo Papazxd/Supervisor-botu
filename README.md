@@ -1,2 +1,1 @@
-# Supervisor-botu
-v13 
+##YAKINDA BEKLEYİN TAKİP EDİN ATICAM

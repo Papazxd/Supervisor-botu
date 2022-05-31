@@ -1,0 +1,45 @@
+{
+
+"token": "",
+"owner":"",
+"prefix":["."],
+"footer": "",
+"sunucuid": "",
+"VoiceChannel":"",
+"status":"",
+
+"yasaklıtag": "",
+"tag": "",
+"taglog": "",
+"taglırol": "",
+"kayıtsızRolleri": "",
+
+"transport": "",
+"banyetkili": "",
+"jailyetkil": "",
+"muteyetkili": "",
+"vmuteyetkili": "",
+"RegisterYetki": "",
+
+
+"banlog": "",
+"jaillog": "",
+"vmutelog": "",
+"mutelog": "",
+"yasaklılog": "",
+
+"cezalırol": "",
+"muteli": "",
+"Vmuteli": "",
+"viprol": "",
+"booster": "",
+
+"seslog": "",
+"mesajlog": "",
+
+"onay": " ",
+"carpi": "",
+"onaye": " ",
+"carpie": " "
+
+}
